@@ -1,0 +1,16 @@
+.jumbotron {
+  background-color: blue;
+  font-family: 'Pacifico', cursive;
+  color: yellow;
+  text-align: center;
+  text-shadow: 2px 0 0 #981F1F, -2px 0 0 #981F1F, 0 2px 0 #981F1F, 0 -2px 0 #981F1F, 1px 1px #981F1F, -1px -1px 0 #981F1F, 1px -1px 0 #981F1F, -1px 1px 0 #981F1F
+  }
+  h3 {
+  	color: blue;
+  	font-family: 'Pacifico', cursive;
+  	background-color: yellow;
+  	border-right-style: ridge;
+  	border-left-style: ridge;
+  	border-color: blue;
+  	text-align: center;
+  }
